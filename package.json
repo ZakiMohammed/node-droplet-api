@@ -1,0 +1,32 @@
+{
+  "name": "droplet-api",
+  "version": "1.0.0",
+  "description": "First ever Digital Ocean Droplet using NodeJS Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakiMohammed/node-droplet-api.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "Digital",
+    "Ocean",
+    "Droplet"
+  ],
+  "author": "Zaki Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZakiMohammed/node-droplet-api/issues"
+  },
+  "homepage": "https://github.com/ZakiMohammed/node-droplet-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
